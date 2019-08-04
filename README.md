@@ -7,13 +7,24 @@
 - 딥러닝 기본 지식: '모두를 위한 딥러닝' 강의를 완강하신 경험만 있으면 충분합니다 !
 - 스터디 기간 중 최소 한 번 이상 발제를 할 용기
 
+<br/>
+
+### 참여자
+허 훈, 이인환, 남혜리, 박병준, 정민수, 김진원, 정지용, 허무지, 이명학, 전다해, 정민소
+
+<br/>
+
 ### 스터디 난이도
 🌝🌝🌗🌚🌚
+
+<br/>
 
 ### 배우게 될 것
 1. **Theory**: 딥러닝을 이용한 자연어 처리의 전반적 흐름을 논문과 아티클을 통해 학습합니다.
 2. **Hands-on**: 아직 한글을 지원하지는 않지만, 최근 텍스트 전처리에 널리 사용되는 `spaCy` 라이브러리를 튜토리얼을 통해 학습합니다.
 3. **Hands-on**: `PyTorch` Tutorial이 제공하는 자연어 처리 실습 코드를 돌려보며, 실제 자연어 처리 프로그램이 어떤 방식으로 학습되는지에 대해 학습합니다.
+
+<br/>
 
 ## Month 1
 딥러닝을 이용한 자연어 처리의 발전 과정과 이에 사용되는 기본적인 모델에 대해 알아봅니다.
@@ -25,6 +36,8 @@
 - Week 3: [Long Short-Term Memory](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) + spaCy Chapter 2: Large-scale data analysis with spaCy ( 인환 / 훈 )
 - Week 4: [Gated Recurrent Unit](https://arxiv.org/pdf/1412.3555.pdf) + spaCy Chapter 3: Processing Pipelines ( 무지 / 훈 )
 
+<br/>
+
 ## Month 2
 컴퓨터에게 인간의 언어를 이해시키기 위해 필요한 단어 임베딩 기법을 발전순으로 알아봅니다.
 
@@ -34,6 +47,8 @@
 - Week 6: [Glove](https://nlp.stanford.edu/pubs/glove.pdf) + DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ ( 병준 /  명학 )
 - Week 7: [Fasttext](https://arxiv.org/pdf/1607.01759.pdf) + [ELMo](https://arxiv.org/pdf/1802.05365.pdf) ( 혜리 /  무지 )
 - Week 8: [Word-Piece Model](https://arxiv.org/pdf/1609.08144.pdf) + DEEP LEARNING FOR NLP WITH PYTORCH #1 ( 지용 /   )
+
+<br/>
 
 ## Month 3
 수 많은 자연어 처리 Task 중 기계번역 Task의 발전사를 논문을 통해 알아봅니다.
