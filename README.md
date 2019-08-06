@@ -9,7 +9,7 @@
 <br/>
 
 ### 함께하는 사람
-[**허 훈**](https://github.com/Huffon), [**이인환**](https://github.com/lih0905), 남혜리, 박병준, 정민수, 김진원, 정지용, 허무지, 이명학, 전다해, 정민소, 임송현
+[**허 훈**](https://github.com/Huffon), [**이인환**](https://github.com/lih0905), 남혜리, 박병준, [**정민수**](https://github.com/4seaday), 김진원, 정지용, [**허무지**](https://github.com/Moo-Ji), [**이명학**](https://github.com/myeonghak), 전다해, [**정민소**](https://github.com/minssoj), [**임송현**](https://github.com/shyun46)
 
 <br/>
 
@@ -43,8 +43,8 @@
 ---
 
 - Week 5: [Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) + spaCy Chapter 4: Training a neural network model ( 병준 / 민소 )
-- Week 6: [Glove](https://nlp.stanford.edu/pubs/glove.pdf) + DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ ( 병준 /  명학 )
-- Week 7: [Fasttext](https://arxiv.org/pdf/1607.01759.pdf) + [ELMo](https://arxiv.org/pdf/1802.05365.pdf) ( 혜리 /  무지 )
+- Week 6: [Glove](https://nlp.stanford.edu/pubs/glove.pdf) + DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ ( 병준 / 명학 )
+- Week 7: [Fasttext](https://arxiv.org/pdf/1607.01759.pdf) + [ELMo](https://arxiv.org/pdf/1802.05365.pdf) ( 혜리 / 무지 )
 - Week 8: [Word-Piece Model](https://arxiv.org/pdf/1609.08144.pdf) + DEEP LEARNING FOR NLP WITH PYTORCH #1 ( 지용 /   )
 
 <br/>
@@ -56,5 +56,5 @@
 
 - Week 9: [Sequence-to-Sequence](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) + DEEP LEARNING FOR NLP WITH PYTORCH #2 ( 훈 /  )
 - Week 10: [Attention](https://arxiv.org/pdf/1409.0473.pdf) + DEEP LEARNING FOR NLP WITH PYTORCH #3 ( 송현 /   )
-- Week 11: [Transformer](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) + DEEP LEARNING FOR NLP WITH PYTORCH #4 (  인환 /  )
-- Week 12: [Natural Language Processing with. CNN](https://arxiv.org/pdf/1408.5882.pdf) + Closing party🎉 (    )
+- Week 11: [Transformer](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) + DEEP LEARNING FOR NLP WITH PYTORCH #4 ( 인환 /  )
+- Week 12: [Natural Language Processing with. CNN](https://arxiv.org/pdf/1408.5882.pdf) + Closing party🎉 ( 다해 / all )
