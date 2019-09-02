@@ -43,9 +43,9 @@
 ---
 
 - Week 5: [Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) + spaCy Chapter 4: Training a neural network model ( 병준 / 민소 )
-- Week 6: [Glove](https://nlp.stanford.edu/pubs/glove.pdf) + DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ ( 병준 / 명학 )
+- Week 6: [Glove](https://nlp.stanford.edu/pubs/glove.pdf) + DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ ( 민수 / 명학 )
 - Week 7: [Fasttext](https://arxiv.org/pdf/1607.01759.pdf) + [ELMo](https://arxiv.org/pdf/1802.05365.pdf) ( 혜리 / 무지 )
-- Week 8: [Word-Piece Model](https://arxiv.org/pdf/1609.08144.pdf) + DEEP LEARNING FOR NLP WITH PYTORCH #1 ( 지용 /   )
+- Week 8: [Word-Piece Model](https://arxiv.org/pdf/1609.08144.pdf) + DEEP LEARNING FOR NLP WITH PYTORCH #1 ( 지용 / 진원 )
 
 <br/>
 
