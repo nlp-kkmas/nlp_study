@@ -54,7 +54,7 @@
 
 ---
 
-- Week 9: [Sequence-to-Sequence](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) / [PyTorch Implementation](https://github.com/Huffon/pytorch-seq2seq-kor-eng) + DEEP LEARNING FOR NLP WITH PYTORCH #2 ( 훈 / 인환 )
-- Week 10: [Attention](https://arxiv.org/pdf/1409.0473.pdf) + [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html) ( 송현 / 훈 )
-- Week 11: [Transformer](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) + [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) ( 인환 /  )
+- Week 9: [Sequence-to-Sequence](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) [(PyTorch Implementation)](https://github.com/Huffon/pytorch-seq2seq-kor-eng) + DEEP LEARNING FOR NLP WITH PYTORCH #2 ( 훈 / 인환 )
+- Week 10: [Attention](https://arxiv.org/pdf/1409.0473.pdf) + What is torch.nn really? ( 송현 / 훈 )
+- Week 11: [Transformer](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) + Annotated Transformer ( 인환 /  )
 - Week 12: [Natural Language Processing with. CNN](https://arxiv.org/pdf/1408.5882.pdf) + Closing party🎉 ( 다해 / all )
