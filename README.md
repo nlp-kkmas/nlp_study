@@ -25,7 +25,7 @@
 
 <br/>
 
-## Month 1
+## Month 1.
 딥러닝을 이용한 자연어 처리의 발전 과정과 이에 사용되는 기본적인 모델에 대해 알아봅니다.
 
 ---
@@ -37,7 +37,7 @@
 
 <br/>
 
-## Month 2
+## Month 2.
 컴퓨터에게 인간의 언어를 이해시키기 위해 필요한 단어 임베딩 기법을 발전순으로 알아봅니다.
 
 ---
@@ -49,12 +49,12 @@
 
 <br/>
 
-## Month 3
+## Month 3.
 수 많은 자연어 처리 Task 중 기계번역 Task의 발전사를 논문을 통해 알아봅니다.
 
 ---
 
 - Week 9: [Sequence-to-Sequence](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) [(PyTorch Implementation)](https://github.com/Huffon/pytorch-seq2seq-kor-eng) + DEEP LEARNING FOR NLP WITH PYTORCH #2 ( 훈 / 인환 )
 - Week 10: [Attention](https://arxiv.org/pdf/1409.0473.pdf) + What is torch.nn really? ( 송현 / 훈 )
-- Week 11: [Transformer](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) + Annotated Transformer ( 인환 / 훈 )
+- Week 11: [Transformer](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) + [Transformer Implementation](https://github.com/Huffon/pytorch-transformer-kor-eng) ( 인환 / 훈 )
 - Week 12: [Natural Language Processing with. CNN](https://arxiv.org/pdf/1408.5882.pdf) + Closing party🎉 ( 다해 / all )
